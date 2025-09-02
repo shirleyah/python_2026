@@ -1,6 +1,4 @@
 from random import choice, seed
-
-
 class mamifero(): 
     # Atributos de clase
     vertebrado = True
